@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "178144660174",
+    "firebase_url": "https://ytl-mobile-default-rtdb.firebaseio.com",
+    "project_id": "ytl-mobile",
+    "storage_bucket": "ytl-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178144660174:android:d6a54e6d96a57192b21e9f",
+        "android_client_info": {
+          "package_name": "com.example.cruditem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtoSXmxZnHJ9XoCfLnsUNkCP2NlsZwk8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
