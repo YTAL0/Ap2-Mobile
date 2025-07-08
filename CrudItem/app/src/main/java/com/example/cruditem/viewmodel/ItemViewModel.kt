@@ -1,4 +1,4 @@
-package com.example.cruditem.viewmodel // ou o pacote onde seu ViewModel está
+package com.example.cruditem.viewmodel 
 
 import android.util.Log
 import androidx.compose.runtime.mutableStateOf

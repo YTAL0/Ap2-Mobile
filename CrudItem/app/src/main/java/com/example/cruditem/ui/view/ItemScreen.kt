@@ -1,4 +1,4 @@
-package com.example.cruditem.ui.view // Mantive sua estrutura de pacotes
+package com.example.cruditem.ui.view 
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
